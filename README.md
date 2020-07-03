@@ -1,0 +1,2 @@
+# baiduCollage
+save some example
